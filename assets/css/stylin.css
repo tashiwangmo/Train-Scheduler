@@ -1,0 +1,40 @@
+ .container {
+    font-family: 'Merriweather', serif;
+    font-size: 20px;
+    background-image: url(../images/train.jpg);
+}
+
+.jumbotron {
+    opacity: 0.5;
+    font-size: 40px;
+}
+
+.card-default {
+    padding: 0px 10px 0px 10px;
+}
+
+p {
+    min-height: 44px;
+    text-align: center;  
+}
+
+#trainSch, #input{
+    opacity: 0.9;
+    padding:30px;
+}
+
+.card-heading{
+    background-color: black;
+    color:white;
+    border-radius:15px;
+    padding:5px;
+}
+#add-train{
+    padding:10px;
+}
+
+p.title{
+    color: blue;
+    border-bottom:5px black solid;
+    padding:5px 0;
+}
